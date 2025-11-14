@@ -4,15 +4,15 @@ Dump::Krumo - Fancy, colorful, human readable dumps of your data
 
 # SYNOPSIS
 
-```perl
-use Dump::Krumo;
+    use Dump::Krumo;
 
-my $data = { one => 1, two => 2, three => 3 };
-kx($data);
+    my $data = { one => 1, two => 2, three => 3 };
+    kx($data);
 
-my $list = ['one', 'two', 'three', 'four'];
-kx($list);
-```
+    my $list = ['one', 'two', 'three', 'four'];
+    kx($list);
+
+![Screenshot](https://raw.githubusercontent.com/simcop2387/perl-Dump-Krumo/refs/heads/github-readme-files/dk-ss.png)
 
 # DESCRIPTION
 
