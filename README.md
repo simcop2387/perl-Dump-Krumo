@@ -12,8 +12,7 @@ Dump::Krumo - Fancy, colorful, human readable dumps of your data
     my $list = ['one', 'two', 'three', 'four'];
     kx($list);
 
-![Screenshot](https://raw.githubusercontent.com/simcop2387/perl-Dump-Krumo/refs/heads/github-readme-files/dk-ss.png "Title?")
-<img src="https://raw.githubusercontent.com/simcop2387/perl-Dump-Krumo/refs/heads/github-readme-files/dk-ss.png" alt="Title?">
+![Screenshot](https://raw.githubusercontent.com/simcop2387/perl-Dump-Krumo/refs/heads/github-readme-files/dk-ss.png)
 
 # DESCRIPTION
 
